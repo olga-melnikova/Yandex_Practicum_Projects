@@ -3,7 +3,7 @@
 
 |Навигация|Название проекта|Описание|Основные инструменты|
 |:---|:---------------|:-------|:----------------------|
-|[final_customer_churn][https://github.com/olga-melnikova/Yandex_Practicum_Projects/tree/main/final_customer_churn]|Финальный проект — прогноз оттока клиентов оператора связи|Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов.|pandas, numpy, scipy, sklearn, catboost, lightgbm, matplotlib, seaborn|
+|[final_customer_churn]<a href="https://github.com/olga-melnikova/Yandex_Practicum_Projects/tree/main/final_customer_churn">link</a>|Финальный проект — прогноз оттока клиентов оператора связи|Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов.|pandas, numpy, scipy, sklearn, catboost, lightgbm, matplotlib, seaborn|
 |age_clients|Распознавание возраста клиентов магазина|Компьютерное зрение. Магазину для подтверждения добросовестности работы кассиров и рекомендаций по предложениям товаров необходимо разработать систему определения возраста клиентов по фотографиям. |keras, sklearn, pillow, pandas, numpy, matplotlib, seaborn|
 |toxic_comments|Определение токсичных комментариев|Машинное обучение для текстов. Интернет-магазин запускает новый сервис, в котором пользователи могут редактировать и дополнять описания товаров. Построение модели, которая определяет токсичные комментарии для последующей их отправки на модерацию. |nltk, spacy, sklearn, wordcloud, lightgbm, matplotlib, seaborn|
 |taxi_order_prediction|Прогноз заказов такси|Временные ряды. Разработка модели для предсказания количества заказов такси на следующий час на основе исторических данных о заказах в аэропортах.|statsmodels, sklearn, lightgbm, matplotlib, seaborn, pandas, numpy|
