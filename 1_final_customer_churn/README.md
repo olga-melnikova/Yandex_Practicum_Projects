@@ -13,11 +13,9 @@
    - информация об услугах телефонии.
 ---
 3. **Инструменты**  
-|1|2|3|
-|:---:|:---:|:---:|
-|pandas|numpy|datetime|
-|matplotlib|seaborn|sklearn|
-|catboost|lightgbm|scipy|
+   - pandas, numpy, datetime, scipy
+   - matplotlib, seaborn
+   - sklearn, catboost, lightgbm  
   
 ---
 1. **Основные шаги**     
